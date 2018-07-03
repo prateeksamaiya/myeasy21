@@ -47,9 +47,3 @@ s = state()
 
 
 
-envir.step(s,"hit")
-envir.step(s,"hit")
-envir.step(s,"hit")
-print(s.sum_player)
-print(s.dealer_first)
-print(envir.step(s,"stick"))
